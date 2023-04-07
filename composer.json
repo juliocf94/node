@@ -1,0 +1,16 @@
+{
+    "name": "vendor/name",
+    "description": "Practica",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Name\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio Flores",
+            "email": "cesarff.julio@gmail.com"
+        }
+    ],
+    "require": {}
+}
